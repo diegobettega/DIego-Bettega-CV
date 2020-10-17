@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> Diego CV 2</h1>
+      <h1> Diego CV 22</h1>
     </div>
   );
 }
