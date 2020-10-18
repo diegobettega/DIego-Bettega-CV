@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <h1 class="test"> Diego CV 22</h1>
       <h1 class="test"> Diego CV 22</h1>
       <h1 class="test"> Diego CV 22</h1>
+      <Footer />
     </div>
   );
 }
