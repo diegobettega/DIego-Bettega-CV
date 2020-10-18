@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diego-bettega-cv/precache-manifest.162d15a2221e08184d960a4b37e5eb24.js"
+  "/diego-bettega-cv/precache-manifest.ec6b6d9877e048f2075f59b5547250a7.js"
 );
 
 self.addEventListener('message', (event) => {
