@@ -1,11 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <div className="App">
-      <h1> Diego CV 22</h1>
+    <Navbar />
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
+      <h1 class="test"> Diego CV 22</h1>
     </div>
   );
 }
