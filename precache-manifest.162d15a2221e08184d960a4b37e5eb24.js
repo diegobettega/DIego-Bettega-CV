@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1eacb008aa1e8aee7457636afc02ee5",
+    "revision": "a22733af4d5205ec2601ded5d7528d67",
     "url": "/diego-bettega-cv/index.html"
   },
   {
