@@ -1,10 +1,11 @@
 import React from "react";
-import profile from "../images/profile.png";
+import Flag from "./Flag";
 
 function Navbar() {
+
   return (
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
-      <img class="navbar-symbol" src={profile} alt="profile-pic" />
+    <Flag />
       <div class="navbar-brand">Diego Bettega</div>
       <button
         class="navbar-toggler"

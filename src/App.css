@@ -53,8 +53,14 @@ body {
   background-color: #1b262c;
 }
 .navbar-symbol {
-  width: 3rem;
+  width: 2rem;
   height: auto;
+}
+.uk-flag{
+  opacity: 0.5;
+}
+.it-flag{
+  opacity: 1;
 }
 .navbar-brand {
   font-size: 2rem;
@@ -65,10 +71,14 @@ body {
   padding: 0 10px;
 }
 .navbar-dark .navbar-nav .nav-link {
-  opacity: 0.6;
+  opacity: 1;
 }
 .nav-link {
   font-size: 1.2rem;
+}
+#language {
+  color:red;
+  /* display: none; */
 }
 
 
