@@ -1,7 +1,18 @@
-import React from "react";
+import React, { useContext } from "react";
 import Flag from "./Flag";
+import { LanguageContext } from "../context/LanguageContext";
 
 function Navbar() {
+
+  const language = useContext(LanguageContext)[0];
+
+  var toshow = ""
+
+  if (language==="UK") {
+    toshow = "Summary"
+  } else {
+    toshow = "Sommario"
+  }
 
   return (
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
@@ -22,7 +33,7 @@ function Navbar() {
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
             <a class="nav-link" href="#summary">
-              Summary
+              {toshow}
             </a>
           </li>
           <li class="nav-item">

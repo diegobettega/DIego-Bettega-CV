@@ -1,9 +1,10 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import ukflag from "../images/uk_flag.png";
 import itflag from "../images/italian_flag.png";
+import { LanguageContext } from "../context/LanguageContext";
 
-function Flag() {
-  const [language, setLanguage] = useState("UK");
+export default function Flag() {
+  const [language, setLanguage] = useContext(LanguageContext);
   const [opacityUK, setOpacityUK] = useState(1);
   const [opacityIT, setOpacityIT] = useState(0.5);
 
@@ -63,9 +64,6 @@ function Flag() {
         onMouseOver={handleMouseOverIT}
         onMouseOut={handleMouseOutIT}
       />
-      <div id="language">{language}</div>
     </div>
   );
 }
-
-export default Flag;
