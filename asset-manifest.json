@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/diego-bettega-cv/static/css/main.91f29549.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.3cb45550.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.3cb45550.chunk.js.map",
+    "main.css": "/diego-bettega-cv/static/css/main.73e95cee.chunk.css",
+    "main.js": "/diego-bettega-cv/static/js/main.122647d3.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.122647d3.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
-    "static/js/2.6e32fe98.chunk.js": "/diego-bettega-cv/static/js/2.6e32fe98.chunk.js",
-    "static/js/2.6e32fe98.chunk.js.map": "/diego-bettega-cv/static/js/2.6e32fe98.chunk.js.map",
+    "static/js/2.d6725aaa.chunk.js": "/diego-bettega-cv/static/js/2.d6725aaa.chunk.js",
+    "static/js/2.d6725aaa.chunk.js.map": "/diego-bettega-cv/static/js/2.d6725aaa.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.4c27febed555e698885910836eba45eb.js": "/diego-bettega-cv/precache-manifest.4c27febed555e698885910836eba45eb.js",
+    "precache-manifest.625330cfa82ac94a9934b5de2aeafa13.js": "/diego-bettega-cv/precache-manifest.625330cfa82ac94a9934b5de2aeafa13.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
-    "static/css/main.91f29549.chunk.css.map": "/diego-bettega-cv/static/css/main.91f29549.chunk.css.map",
-    "static/js/2.6e32fe98.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.6e32fe98.chunk.js.LICENSE.txt",
+    "static/css/main.73e95cee.chunk.css.map": "/diego-bettega-cv/static/css/main.73e95cee.chunk.css.map",
+    "static/js/2.d6725aaa.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.d6725aaa.chunk.js.LICENSE.txt",
     "static/media/italian_flag.png": "/diego-bettega-cv/static/media/italian_flag.060787e8.png",
+    "static/media/profile.png": "/diego-bettega-cv/static/media/profile.a50b7d2d.png",
     "static/media/uk_flag.png": "/diego-bettega-cv/static/media/uk_flag.72b1c268.png"
   },
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
-    "static/js/2.6e32fe98.chunk.js",
-    "static/css/main.91f29549.chunk.css",
-    "static/js/main.3cb45550.chunk.js"
+    "static/js/2.d6725aaa.chunk.js",
+    "static/css/main.73e95cee.chunk.css",
+    "static/js/main.122647d3.chunk.js"
   ]
 }
