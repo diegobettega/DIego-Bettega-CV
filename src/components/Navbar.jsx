@@ -1,25 +1,17 @@
 import React, { useContext } from "react";
-import Flag from "./Flag";
 import { LanguageContext } from "../context/LanguageContext";
+import Flag from "./Flag";
+import NavbarData from "../data/NavbarData";
 
-function Navbar() {
-
+export default function Navbar() {
   const language = useContext(LanguageContext)[0];
 
-  var toshow = ""
-
-  if (language==="UK") {
-    toshow = "Summary"
-  } else {
-    toshow = "Sommario"
-  }
-
   return (
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
-    <Flag />
+    <nav className="navbar fixed-top navbar-expand-lg navbar-dark">
+      <Flag />
       <div class="navbar-brand">Diego Bettega</div>
       <button
-        class="navbar-toggler"
+        className="navbar-toggler"
         type="button"
         data-toggle="collapse"
         data-target="#navbarSupportedContent"
@@ -27,33 +19,33 @@ function Navbar() {
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"></span>
+        <span className="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#summary">
-              {toshow}
+      <div className="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul className="navbar-nav ml-auto">
+          <li className="nav-item">
+            <a className="nav-link" href="#summary">
+              {NavbarData[language][0]}
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#work-experience">
-              Work Experience
+          <li className="nav-item">
+            <a className="nav-link" href="#work-experience">
+              {NavbarData[language][1]}
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#projects">
-              Projects
+          <li className="nav-item">
+            <a className="nav-link" href="#projects">
+              {NavbarData[language][2]}
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#education">
-              Education
+          <li className="nav-item">
+            <a className="nav-link" href="#education">
+              {NavbarData[language][3]}
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#courses">
-              Courses
+          <li className="nav-item">
+            <a className="nav-link" href="#courses">
+              {NavbarData[language][4]}
             </a>
           </li>
         </ul>
@@ -61,5 +53,3 @@ function Navbar() {
     </nav>
   );
 }
-
-export default Navbar;

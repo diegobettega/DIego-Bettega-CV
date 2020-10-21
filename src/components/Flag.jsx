@@ -55,6 +55,7 @@ export default function Flag() {
         onMouseOver={handleMouseOverUK}
         onMouseOut={handleMouseOutUK}
       />
+      &nbsp;
       <img
         className="navbar-symbol it-flag"
         src={itflag}
