@@ -1,15 +1,16 @@
 import React, { useContext } from "react";
 import { LanguageContext } from "../context/LanguageContext";
-import Flag from "./Flag";
 import NavbarData from "../data/NavbarData";
+import Avatar from "./Avatar";
+import Flag from "./Flag";
 
 export default function Navbar() {
   const language = useContext(LanguageContext)[0];
 
   return (
     <nav className="navbar fixed-top navbar-expand-lg navbar-dark">
-      <Flag />
-      <div class="navbar-brand">Diego Bettega</div>
+      <Avatar />
+      <div class="navbar-name">Diego Bettega</div>
       <button
         className="navbar-toggler"
         type="button"
@@ -49,6 +50,7 @@ export default function Navbar() {
             </a>
           </li>
         </ul>
+        <Flag />
       </div>
     </nav>
   );
