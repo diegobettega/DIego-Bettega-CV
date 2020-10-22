@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "186594301ad520df1ce7867a3586a944",
+    "revision": "efa4f51a57c962733316605f4b008bfd",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "6598e24701acd7ef7d2e",
-    "url": "/diego-bettega-cv/static/css/main.73e95cee.chunk.css"
+    "revision": "0d1364991e55e0e98c07",
+    "url": "/diego-bettega-cv/static/css/main.5c84b693.chunk.css"
   },
   {
     "revision": "ebb50f1480dfbb37b102",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.d6725aaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6598e24701acd7ef7d2e",
-    "url": "/diego-bettega-cv/static/js/main.122647d3.chunk.js"
+    "revision": "0d1364991e55e0e98c07",
+    "url": "/diego-bettega-cv/static/js/main.e96386d0.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/italian_flag.060787e8.png"
   },
   {
-    "revision": "a50b7d2d392da7b8039d2332af31a720",
-    "url": "/diego-bettega-cv/static/media/profile.a50b7d2d.png"
+    "revision": "d688b4f08186330501af0713184b566c",
+    "url": "/diego-bettega-cv/static/media/profile.d688b4f0.png"
   },
   {
     "revision": "72b1c268cc071ff6e87e39d637aaa9fe",
