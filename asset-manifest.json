@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/diego-bettega-cv/static/css/main.5a6e9cef.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.831ca2de.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.831ca2de.chunk.js.map",
+    "main.css": "/diego-bettega-cv/static/css/main.cf1d19b4.chunk.css",
+    "main.js": "/diego-bettega-cv/static/js/main.dff873f3.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.dff873f3.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
-    "static/js/2.cc3f093e.chunk.js": "/diego-bettega-cv/static/js/2.cc3f093e.chunk.js",
-    "static/js/2.cc3f093e.chunk.js.map": "/diego-bettega-cv/static/js/2.cc3f093e.chunk.js.map",
+    "static/js/2.ff3535fd.chunk.js": "/diego-bettega-cv/static/js/2.ff3535fd.chunk.js",
+    "static/js/2.ff3535fd.chunk.js.map": "/diego-bettega-cv/static/js/2.ff3535fd.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.ca316632fea88f76cc42119c2fdb5604.js": "/diego-bettega-cv/precache-manifest.ca316632fea88f76cc42119c2fdb5604.js",
+    "precache-manifest.3923e0248e00e6d798b4d208fcd8ed83.js": "/diego-bettega-cv/precache-manifest.3923e0248e00e6d798b4d208fcd8ed83.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
-    "static/css/main.5a6e9cef.chunk.css.map": "/diego-bettega-cv/static/css/main.5a6e9cef.chunk.css.map",
-    "static/js/2.cc3f093e.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.cc3f093e.chunk.js.LICENSE.txt",
+    "static/css/main.cf1d19b4.chunk.css.map": "/diego-bettega-cv/static/css/main.cf1d19b4.chunk.css.map",
+    "static/js/2.ff3535fd.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.ff3535fd.chunk.js.LICENSE.txt",
     "static/media/adapt.png": "/diego-bettega-cv/static/media/adapt.1b7f5a09.png",
     "static/media/adloox.png": "/diego-bettega-cv/static/media/adloox.e1c37af6.png",
     "static/media/aginity.png": "/diego-bettega-cv/static/media/aginity.90a293cf.png",
@@ -78,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
-    "static/js/2.cc3f093e.chunk.js",
-    "static/css/main.5a6e9cef.chunk.css",
-    "static/js/main.831ca2de.chunk.js"
+    "static/js/2.ff3535fd.chunk.js",
+    "static/css/main.cf1d19b4.chunk.css",
+    "static/js/main.dff873f3.chunk.js"
   ]
 }
