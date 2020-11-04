@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f1c3ae79fac1a828de4ebf5e91cf4aa",
+    "revision": "7f3e2380634b536b35e541df4e811d54",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "7f42a26ab371729edb0c",
-    "url": "/diego-bettega-cv/static/css/main.cf1d19b4.chunk.css"
+    "revision": "b840236337a1e41f0fdf",
+    "url": "/diego-bettega-cv/static/css/main.ed1b2623.chunk.css"
   },
   {
-    "revision": "4b1658e435adbb0033af",
-    "url": "/diego-bettega-cv/static/js/2.ff3535fd.chunk.js"
+    "revision": "f87f5df5a0eed89bdacd",
+    "url": "/diego-bettega-cv/static/js/2.ea3fe04e.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.ff3535fd.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.ea3fe04e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f42a26ab371729edb0c",
-    "url": "/diego-bettega-cv/static/js/main.dff873f3.chunk.js"
+    "revision": "b840236337a1e41f0fdf",
+    "url": "/diego-bettega-cv/static/js/main.db7d785f.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -201,7 +201,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d688b4f08186330501af0713184b566c",
-    "url": "/diego-bettega-cv/static/media/profile.d688b4f0.png"
+    "url": "/diego-bettega-cv/static/media/profile1.d688b4f0.png"
+  },
+  {
+    "revision": "5dec58212045c1d3805fd6c4bbf096ba",
+    "url": "/diego-bettega-cv/static/media/profile2.5dec5821.png"
   },
   {
     "revision": "89116230917d8efd820d60b0d26d0c1b",
@@ -262,6 +266,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72b1c268cc071ff6e87e39d637aaa9fe",
     "url": "/diego-bettega-cv/static/media/uk_flag.72b1c268.png"
+  },
+  {
+    "revision": "5dfa5b47c29a6ce86f80ca58a5197ef9",
+    "url": "/diego-bettega-cv/static/media/unipr.5dfa5b47.png"
   },
   {
     "revision": "28126c769ba3e3e79ce1150f4ae4ede4",
