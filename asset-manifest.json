@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diego-bettega-cv/static/css/main.0ea150c6.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.ece6664c.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.ece6664c.chunk.js.map",
+    "main.js": "/diego-bettega-cv/static/js/main.637e0ba1.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.637e0ba1.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
     "static/js/2.83b165f5.chunk.js": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js",
     "static/js/2.83b165f5.chunk.js.map": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.b5b9c02410cb49989fb494b25dcba352.js": "/diego-bettega-cv/precache-manifest.b5b9c02410cb49989fb494b25dcba352.js",
+    "precache-manifest.54d11555a86983a9b8f94f7761aa88d4.js": "/diego-bettega-cv/precache-manifest.54d11555a86983a9b8f94f7761aa88d4.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
     "static/css/main.0ea150c6.chunk.css.map": "/diego-bettega-cv/static/css/main.0ea150c6.chunk.css.map",
     "static/js/2.83b165f5.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js.LICENSE.txt",
@@ -22,19 +22,19 @@
     "static/media/atom.png": "/diego-bettega-cv/static/media/atom.3bf85262.png",
     "static/media/aws.png": "/diego-bettega-cv/static/media/aws.fb51ce29.png",
     "static/media/azure.png": "/diego-bettega-cv/static/media/azure.2e772acd.png",
-    "static/media/basketball.png": "/diego-bettega-cv/static/media/basketball.0eca2e6d.png",
+    "static/media/basketball.png": "/diego-bettega-cv/static/media/basketball.f2c2d0ca.png",
     "static/media/bigdata.png": "/diego-bettega-cv/static/media/bigdata.bda1c782.png",
     "static/media/bootstrap.png": "/diego-bettega-cv/static/media/bootstrap.fb2c3651.png",
     "static/media/colab.png": "/diego-bettega-cv/static/media/colab.7191d4cd.png",
     "static/media/customer_retention.png": "/diego-bettega-cv/static/media/customer_retention.104416ec.png",
-    "static/media/cycling.png": "/diego-bettega-cv/static/media/cycling.989111ae.png",
+    "static/media/cycling.png": "/diego-bettega-cv/static/media/cycling.8d0b7977.png",
     "static/media/dask.png": "/diego-bettega-cv/static/media/dask.4b26317c.png",
     "static/media/devops.png": "/diego-bettega-cv/static/media/devops.1432b755.png",
     "static/media/docker.png": "/diego-bettega-cv/static/media/docker.8f63a1de.png",
     "static/media/excel.png": "/diego-bettega-cv/static/media/excel.a0f68920.png",
     "static/media/face_detection.png": "/diego-bettega-cv/static/media/face_detection.010e37c2.png",
     "static/media/face_recognition.png": "/diego-bettega-cv/static/media/face_recognition.07736551.png",
-    "static/media/fishing.png": "/diego-bettega-cv/static/media/fishing.e88fa6e5.png",
+    "static/media/fishing.png": "/diego-bettega-cv/static/media/fishing.abef199b.png",
     "static/media/flask.png": "/diego-bettega-cv/static/media/flask.74a07b6a.png",
     "static/media/gcp.png": "/diego-bettega-cv/static/media/gcp.14dca846.png",
     "static/media/github.png": "/diego-bettega-cv/static/media/github.da42fa0f.png",
@@ -87,6 +87,6 @@
     "static/js/runtime-main.909a9656.js",
     "static/js/2.83b165f5.chunk.js",
     "static/css/main.0ea150c6.chunk.css",
-    "static/js/main.ece6664c.chunk.js"
+    "static/js/main.637e0ba1.chunk.js"
   ]
 }
