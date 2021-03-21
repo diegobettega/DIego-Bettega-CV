@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e43c25842867db3519384e6bb9e19d6a",
+    "revision": "00125a5f7c614895729e41b7673dc859",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "e38f9f12d2b690b0e6eb",
-    "url": "/diego-bettega-cv/static/css/main.0ea150c6.chunk.css"
+    "revision": "7e2dafa5227dc24a617c",
+    "url": "/diego-bettega-cv/static/css/main.29b4d723.chunk.css"
   },
   {
     "revision": "4d59078aef0745bb1d58",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e38f9f12d2b690b0e6eb",
-    "url": "/diego-bettega-cv/static/js/main.57d121d7.chunk.js"
+    "revision": "7e2dafa5227dc24a617c",
+    "url": "/diego-bettega-cv/static/js/main.97d2cbf7.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/azure.2e772acd.png"
   },
   {
-    "revision": "f2c2d0cac2d6e2e516b30e92662515af",
-    "url": "/diego-bettega-cv/static/media/basketball.f2c2d0ca.png"
+    "revision": "c948495bc6cd03d94bde9bfe6d0daf6a",
+    "url": "/diego-bettega-cv/static/media/basketball.c948495b.png"
   },
   {
     "revision": "bda1c782a2dfca44746d5303c024042f",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/customer_retention.104416ec.png"
   },
   {
-    "revision": "8d0b7977447a2c96d590f314f27c52eb",
-    "url": "/diego-bettega-cv/static/media/cycling.8d0b7977.png"
+    "revision": "ed1ad9731f768ba4746113e6b6c451f1",
+    "url": "/diego-bettega-cv/static/media/cycling.ed1ad973.png"
   },
   {
     "revision": "4b26317ca21cf2f5dfd33e150020710f",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/face_recognition.07736551.png"
   },
   {
-    "revision": "abef199b5f54a4371d17e2db2c03572d",
-    "url": "/diego-bettega-cv/static/media/fishing.abef199b.png"
+    "revision": "b20c18e19a9bbd88dd51f1befdfe3910",
+    "url": "/diego-bettega-cv/static/media/fishing.b20c18e1.png"
   },
   {
     "revision": "74a07b6a5888c085972a5b8ff36fe5ff",
