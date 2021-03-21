@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d04aa330fa54310fad50cd6431e2e1c",
+    "revision": "c23ec510cd430afb4d2de58ba415492c",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "1751f4ef5e02d4b3b1fa",
-    "url": "/diego-bettega-cv/static/css/main.c9603a3a.chunk.css"
+    "revision": "b7cf0cd08e614937c517",
+    "url": "/diego-bettega-cv/static/css/main.50e4dce1.chunk.css"
   },
   {
     "revision": "f87f5df5a0eed89bdacd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.ea3fe04e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1751f4ef5e02d4b3b1fa",
-    "url": "/diego-bettega-cv/static/js/main.4caef3a8.chunk.js"
+    "revision": "b7cf0cd08e614937c517",
+    "url": "/diego-bettega-cv/static/js/main.938bbb4e.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
