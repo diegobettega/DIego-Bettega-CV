@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/diego-bettega-cv/static/css/main.29b4d723.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.97d2cbf7.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.97d2cbf7.chunk.js.map",
+    "main.css": "/diego-bettega-cv/static/css/main.ffc477c3.chunk.css",
+    "main.js": "/diego-bettega-cv/static/js/main.854455df.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.854455df.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
-    "static/js/2.83b165f5.chunk.js": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js",
-    "static/js/2.83b165f5.chunk.js.map": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js.map",
+    "static/js/2.34ad267e.chunk.js": "/diego-bettega-cv/static/js/2.34ad267e.chunk.js",
+    "static/js/2.34ad267e.chunk.js.map": "/diego-bettega-cv/static/js/2.34ad267e.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.ec03ceeccdf359c1d2ab3e6372a6f6b1.js": "/diego-bettega-cv/precache-manifest.ec03ceeccdf359c1d2ab3e6372a6f6b1.js",
+    "precache-manifest.61360fca83f84a7f193b79ad59ce340e.js": "/diego-bettega-cv/precache-manifest.61360fca83f84a7f193b79ad59ce340e.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
-    "static/css/main.29b4d723.chunk.css.map": "/diego-bettega-cv/static/css/main.29b4d723.chunk.css.map",
-    "static/js/2.83b165f5.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.83b165f5.chunk.js.LICENSE.txt",
+    "static/css/main.ffc477c3.chunk.css.map": "/diego-bettega-cv/static/css/main.ffc477c3.chunk.css.map",
+    "static/js/2.34ad267e.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.34ad267e.chunk.js.LICENSE.txt",
+    "static/media/CV.png": "/diego-bettega-cv/static/media/CV.7c727f36.png",
+    "static/media/CV_Hover.png": "/diego-bettega-cv/static/media/CV_Hover.e4aacb7b.png",
+    "static/media/Diego Bettega - CV (IT).pdf": "/diego-bettega-cv/static/media/Diego Bettega - CV (IT).07289789.pdf",
+    "static/media/Diego Bettega - CV (UK).pdf": "/diego-bettega-cv/static/media/Diego Bettega - CV (UK).07289789.pdf",
     "static/media/adapt.png": "/diego-bettega-cv/static/media/adapt.1b7f5a09.png",
     "static/media/adloox.png": "/diego-bettega-cv/static/media/adloox.e1c37af6.png",
     "static/media/aginity.png": "/diego-bettega-cv/static/media/aginity.90a293cf.png",
@@ -85,8 +89,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
-    "static/js/2.83b165f5.chunk.js",
-    "static/css/main.29b4d723.chunk.css",
-    "static/js/main.97d2cbf7.chunk.js"
+    "static/js/2.34ad267e.chunk.js",
+    "static/css/main.ffc477c3.chunk.css",
+    "static/js/main.854455df.chunk.js"
   ]
 }
