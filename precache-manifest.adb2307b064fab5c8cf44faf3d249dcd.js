@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "265737481ceeffb943b5018af47353a2",
+    "revision": "b095d2c95636021aabbaafcaa2c6a075",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "754d3eaedd392d739cd8",
+    "revision": "90de9cb4350518534a9b",
     "url": "/diego-bettega-cv/static/css/main.2eca7414.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.5c08845b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "754d3eaedd392d739cd8",
-    "url": "/diego-bettega-cv/static/js/main.06679e3a.chunk.js"
+    "revision": "90de9cb4350518534a9b",
+    "url": "/diego-bettega-cv/static/js/main.f91d61f0.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/CV_Hover.7cadfa10.png"
   },
   {
-    "revision": "1f5cf554def8ed03767b9fac1cfecf44",
-    "url": "/diego-bettega-cv/static/media/Diego Bettega - CV (IT).1f5cf554.pdf"
+    "revision": "8511d3c42d6aaeb3f08fc0cd36ea6fe2",
+    "url": "/diego-bettega-cv/static/media/Diego Bettega - CV (IT).8511d3c4.pdf"
   },
   {
-    "revision": "1f5cf554def8ed03767b9fac1cfecf44",
-    "url": "/diego-bettega-cv/static/media/Diego Bettega - CV (UK).1f5cf554.pdf"
+    "revision": "8511d3c42d6aaeb3f08fc0cd36ea6fe2",
+    "url": "/diego-bettega-cv/static/media/Diego Bettega - CV (UK).8511d3c4.pdf"
   },
   {
     "revision": "1b7f5a09b310da5bf36b64044f1a4a70",
