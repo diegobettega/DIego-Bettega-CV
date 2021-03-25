@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diego-bettega-cv/static/css/main.2eca7414.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.2576f7c1.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.2576f7c1.chunk.js.map",
+    "main.js": "/diego-bettega-cv/static/js/main.a9f7d266.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.a9f7d266.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
     "static/js/2.eb6051cc.chunk.js": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js",
     "static/js/2.eb6051cc.chunk.js.map": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.f6b196d8160cea0209a4166864c03e8a.js": "/diego-bettega-cv/precache-manifest.f6b196d8160cea0209a4166864c03e8a.js",
+    "precache-manifest.55531f261083a37921ae04eb230e33ab.js": "/diego-bettega-cv/precache-manifest.55531f261083a37921ae04eb230e33ab.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
     "static/css/main.2eca7414.chunk.css.map": "/diego-bettega-cv/static/css/main.2eca7414.chunk.css.map",
     "static/js/2.eb6051cc.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js.LICENSE.txt",
@@ -96,6 +96,6 @@
     "static/js/runtime-main.909a9656.js",
     "static/js/2.eb6051cc.chunk.js",
     "static/css/main.2eca7414.chunk.css",
-    "static/js/main.2576f7c1.chunk.js"
+    "static/js/main.a9f7d266.chunk.js"
   ]
 }
