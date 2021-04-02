@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0b723699b216c813384f283b3d64897",
+    "revision": "1ce6abfbbc23e17e24921109d7a7682b",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "9ecfc218a8f846922c44",
-    "url": "/diego-bettega-cv/static/css/main.cc77f027.chunk.css"
+    "revision": "b610b36626c77044763c",
+    "url": "/diego-bettega-cv/static/css/main.1e2bf082.chunk.css"
   },
   {
     "revision": "aee61462fd9b7a421a53",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ecfc218a8f846922c44",
-    "url": "/diego-bettega-cv/static/js/main.c10abfbb.chunk.js"
+    "revision": "b610b36626c77044763c",
+    "url": "/diego-bettega-cv/static/js/main.d8f3905e.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -324,8 +324,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/unipr.5dfa5b47.png"
   },
   {
-    "revision": "28126c769ba3e3e79ce1150f4ae4ede4",
-    "url": "/diego-bettega-cv/static/media/unipr_logo.28126c76.png"
+    "revision": "1354e099f117c83e26605bfb86c5f9b1",
+    "url": "/diego-bettega-cv/static/media/unipr_logo.1354e099.png"
   },
   {
     "revision": "3f4c74ee92c0df9901e977a7a2df2e49",
