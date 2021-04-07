@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/diego-bettega-cv/static/css/main.1b40db7f.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.5f9738ec.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.5f9738ec.chunk.js.map",
+    "main.js": "/diego-bettega-cv/static/js/main.725bb1a2.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.725bb1a2.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
-    "static/js/2.eb6051cc.chunk.js": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js",
-    "static/js/2.eb6051cc.chunk.js.map": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js.map",
+    "static/js/2.be66ecf2.chunk.js": "/diego-bettega-cv/static/js/2.be66ecf2.chunk.js",
+    "static/js/2.be66ecf2.chunk.js.map": "/diego-bettega-cv/static/js/2.be66ecf2.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.dccd804f2060f2099ec6201898a25e9f.js": "/diego-bettega-cv/precache-manifest.dccd804f2060f2099ec6201898a25e9f.js",
+    "precache-manifest.3b7935ae7c640b2eb5ee4657c6321238.js": "/diego-bettega-cv/precache-manifest.3b7935ae7c640b2eb5ee4657c6321238.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
     "static/css/main.1b40db7f.chunk.css.map": "/diego-bettega-cv/static/css/main.1b40db7f.chunk.css.map",
-    "static/js/2.eb6051cc.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.eb6051cc.chunk.js.LICENSE.txt",
+    "static/js/2.be66ecf2.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.be66ecf2.chunk.js.LICENSE.txt",
     "static/media/CV.png": "/diego-bettega-cv/static/media/CV.5e363190.png",
     "static/media/CV_Hover.png": "/diego-bettega-cv/static/media/CV_Hover.7cadfa10.png",
     "static/media/Diego Bettega - CV (IT).pdf": "/diego-bettega-cv/static/media/Diego Bettega - CV (IT).875b0be5.pdf",
@@ -45,6 +45,7 @@
     "static/media/gcp.png": "/diego-bettega-cv/static/media/gcp.14dca846.png",
     "static/media/github.png": "/diego-bettega-cv/static/media/github.da42fa0f.png",
     "static/media/gitlab.png": "/diego-bettega-cv/static/media/gitlab.8c9ffa68.png",
+    "static/media/grade_aiml.png": "/diego-bettega-cv/static/media/grade_aiml.9a4cd7c2.png",
     "static/media/grand_hackathon_certificate.png": "/diego-bettega-cv/static/media/grand_hackathon_certificate.10b950e0.png",
     "static/media/hackathon_certification.png": "/diego-bettega-cv/static/media/hackathon_certification.943692de.png",
     "static/media/hadoop.png": "/diego-bettega-cv/static/media/hadoop.69bd296a.png",
@@ -65,6 +66,7 @@
     "static/media/opencv.png": "/diego-bettega-cv/static/media/opencv.8cc1eebc.png",
     "static/media/pandas.png": "/diego-bettega-cv/static/media/pandas.183f7a00.png",
     "static/media/pgp_aiml.png": "/diego-bettega-cv/static/media/pgp_aiml.9ab39f9d.png",
+    "static/media/pgp_bd.png": "/diego-bettega-cv/static/media/pgp_bd.dd645ddb.png",
     "static/media/pgp_cc.png": "/diego-bettega-cv/static/media/pgp_cc.8ff64602.png",
     "static/media/ppt.png": "/diego-bettega-cv/static/media/ppt.a72c9266.png",
     "static/media/profile1.png": "/diego-bettega-cv/static/media/profile1.d688b4f0.png",
@@ -94,8 +96,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
-    "static/js/2.eb6051cc.chunk.js",
+    "static/js/2.be66ecf2.chunk.js",
     "static/css/main.1b40db7f.chunk.css",
-    "static/js/main.5f9738ec.chunk.js"
+    "static/js/main.725bb1a2.chunk.js"
   ]
 }
