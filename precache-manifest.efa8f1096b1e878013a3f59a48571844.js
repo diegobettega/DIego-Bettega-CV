@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59a6a1ccffcaaa70da5cc89352c9f967",
+    "revision": "83f0d23841a040617e87b40af594dfbf",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "f1073ad183730c9bb667",
-    "url": "/diego-bettega-cv/static/css/main.1b40db7f.chunk.css"
+    "revision": "5997d316fe34ba8c4435",
+    "url": "/diego-bettega-cv/static/css/main.07cf10b8.chunk.css"
   },
   {
-    "revision": "d73abf1d636013a936cb",
-    "url": "/diego-bettega-cv/static/js/2.be66ecf2.chunk.js"
+    "revision": "e8a09021be03c6112404",
+    "url": "/diego-bettega-cv/static/js/2.1105d500.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.be66ecf2.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.1105d500.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1073ad183730c9bb667",
-    "url": "/diego-bettega-cv/static/js/main.725bb1a2.chunk.js"
+    "revision": "5997d316fe34ba8c4435",
+    "url": "/diego-bettega-cv/static/js/main.829b9c72.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -208,6 +208,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/managed_service.3aa10f3f.png"
   },
   {
+    "revision": "339f6a1c71beee6ff6699754d18b5e78",
+    "url": "/diego-bettega-cv/static/media/mit.339f6a1c.png"
+  },
+  {
+    "revision": "1a3b82f0a4de2cd8537d955d2086a961",
+    "url": "/diego-bettega-cv/static/media/mit_logo.1a3b82f0.png"
+  },
+  {
     "revision": "c1c2c7800bfa3121d98d7e3f5aa50b57",
     "url": "/diego-bettega-cv/static/media/model_expleinability.c1c2c780.png"
   },
@@ -308,8 +316,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/team_communication.ddce1b4e.png"
   },
   {
-    "revision": "49480c7564cb7ae7d67ff5c4e734f69c",
-    "url": "/diego-bettega-cv/static/media/texas_logo.49480c75.png"
+    "revision": "22e56d93195ae717e6e239ae06c50fad",
+    "url": "/diego-bettega-cv/static/media/texas_logo.22e56d93.png"
   },
   {
     "revision": "c0f5974fb490cc5fec3bcfb5fcf1ee9c",
