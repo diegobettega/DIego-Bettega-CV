@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diego-bettega-cv/static/css/main.20c33baa.chunk.css",
+    "main.css": "/diego-bettega-cv/static/css/main.417846ba.chunk.css",
     "main.js": "/diego-bettega-cv/static/js/main.35d807fc.chunk.js",
     "main.js.map": "/diego-bettega-cv/static/js/main.35d807fc.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
@@ -8,9 +8,9 @@
     "static/js/2.e79ce444.chunk.js": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js",
     "static/js/2.e79ce444.chunk.js.map": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.5c31f7c75fc95ecbb31947b81becbd86.js": "/diego-bettega-cv/precache-manifest.5c31f7c75fc95ecbb31947b81becbd86.js",
+    "precache-manifest.7d2b843ae9f4bac8fc59a9da057039d3.js": "/diego-bettega-cv/precache-manifest.7d2b843ae9f4bac8fc59a9da057039d3.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
-    "static/css/main.20c33baa.chunk.css.map": "/diego-bettega-cv/static/css/main.20c33baa.chunk.css.map",
+    "static/css/main.417846ba.chunk.css.map": "/diego-bettega-cv/static/css/main.417846ba.chunk.css.map",
     "static/js/2.e79ce444.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.LICENSE.txt",
     "static/media/CV.png": "/diego-bettega-cv/static/media/CV.5e363190.png",
     "static/media/CV_Hover.png": "/diego-bettega-cv/static/media/CV_Hover.7cadfa10.png",
@@ -102,7 +102,7 @@
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
     "static/js/2.e79ce444.chunk.js",
-    "static/css/main.20c33baa.chunk.css",
+    "static/css/main.417846ba.chunk.css",
     "static/js/main.35d807fc.chunk.js"
   ]
 }
