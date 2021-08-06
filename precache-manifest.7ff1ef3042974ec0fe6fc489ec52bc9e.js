@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f75ae733b1ff6427616246eb37e2f270",
+    "revision": "8f4d8cffdc010c2f1a1f949598f498f3",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "f10bf9663a1ac695e0cc",
+    "revision": "3527827614b0d691fcbf",
     "url": "/diego-bettega-cv/static/css/main.20c33baa.chunk.css"
   },
   {
-    "revision": "116b74526b4ea018fd67",
-    "url": "/diego-bettega-cv/static/js/2.dd059acd.chunk.js"
+    "revision": "4bdbf3cc0553804ecdf9",
+    "url": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.dd059acd.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f10bf9663a1ac695e0cc",
-    "url": "/diego-bettega-cv/static/js/main.2b727f46.chunk.js"
+    "revision": "3527827614b0d691fcbf",
+    "url": "/diego-bettega-cv/static/js/main.3d09547a.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -160,6 +160,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/grade_aiml.9a4cd7c2.png"
   },
   {
+    "revision": "f552a315cedf4069a422d9f239a47af0",
+    "url": "/diego-bettega-cv/static/media/grade_mit.f552a315.png"
+  },
+  {
     "revision": "10b950e0fb852a90d68bad33be5a1f21",
     "url": "/diego-bettega-cv/static/media/grand_hackathon_certificate.10b950e0.png"
   },
@@ -208,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/managed_service.3aa10f3f.png"
   },
   {
-    "revision": "339f6a1c71beee6ff6699754d18b5e78",
-    "url": "/diego-bettega-cv/static/media/mit1.339f6a1c.png"
+    "revision": "ac24d9feee05bd820acb0f59f2fdba1e",
+    "url": "/diego-bettega-cv/static/media/mit1.ac24d9fe.png"
   },
   {
     "revision": "339f6a1c71beee6ff6699754d18b5e78",
