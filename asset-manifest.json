@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diego-bettega-cv/static/css/main.417846ba.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.41643a6a.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.41643a6a.chunk.js.map",
+    "main.js": "/diego-bettega-cv/static/js/main.d75829d6.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.d75829d6.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
     "static/js/2.e79ce444.chunk.js": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js",
     "static/js/2.e79ce444.chunk.js.map": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.135e85645b4cb79417aa294db5c52a69.js": "/diego-bettega-cv/precache-manifest.135e85645b4cb79417aa294db5c52a69.js",
+    "precache-manifest.f8b8df0ea15c4cacd7b4b3d58656a96a.js": "/diego-bettega-cv/precache-manifest.f8b8df0ea15c4cacd7b4b3d58656a96a.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
     "static/css/main.417846ba.chunk.css.map": "/diego-bettega-cv/static/css/main.417846ba.chunk.css.map",
     "static/js/2.e79ce444.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.LICENSE.txt",
@@ -60,7 +60,7 @@
     "static/media/lynda.png": "/diego-bettega-cv/static/media/lynda.126e318e.png",
     "static/media/managed_service.png": "/diego-bettega-cv/static/media/managed_service.3aa10f3f.png",
     "static/media/mit1.png": "/diego-bettega-cv/static/media/mit1.ac24d9fe.png",
-    "static/media/mit2.png": "/diego-bettega-cv/static/media/mit2.339f6a1c.png",
+    "static/media/mit2.png": "/diego-bettega-cv/static/media/mit2.48bf08b1.png",
     "static/media/mit_logo.png": "/diego-bettega-cv/static/media/mit_logo.67e6cf5c.png",
     "static/media/model_expleinability.png": "/diego-bettega-cv/static/media/model_expleinability.c1c2c780.png",
     "static/media/mongodb.png": "/diego-bettega-cv/static/media/mongodb.60628f2e.png",
@@ -103,6 +103,6 @@
     "static/js/runtime-main.909a9656.js",
     "static/js/2.e79ce444.chunk.js",
     "static/css/main.417846ba.chunk.css",
-    "static/js/main.41643a6a.chunk.js"
+    "static/js/main.d75829d6.chunk.js"
   ]
 }
