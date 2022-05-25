@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc33230a8a6a226f469c63de1180dd63",
+    "revision": "c88597e82870b023cd13cfb3698c5f3f",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "740bc816ac434de883e2",
+    "revision": "d1e6ec38d9a973b4dadb",
     "url": "/diego-bettega-cv/static/css/main.417846ba.chunk.css"
   },
   {
-    "revision": "4bdbf3cc0553804ecdf9",
-    "url": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js"
+    "revision": "547ed2b18a25beefd63e",
+    "url": "/diego-bettega-cv/static/js/2.303f2a78.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.e79ce444.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.303f2a78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "740bc816ac434de883e2",
-    "url": "/diego-bettega-cv/static/js/main.2933ed08.chunk.js"
+    "revision": "d1e6ec38d9a973b4dadb",
+    "url": "/diego-bettega-cv/static/js/main.e12b83f1.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -322,6 +322,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37a914e3a013998a58bf07b7f7801469",
     "url": "/diego-bettega-cv/static/media/tableau.37a914e3.png"
+  },
+  {
+    "revision": "e07a0dd44de4c8877a393f60ad95c64c",
+    "url": "/diego-bettega-cv/static/media/td.e07a0dd4.png"
+  },
+  {
+    "revision": "b0afbfc09ed61cd929862ddb808458ea",
+    "url": "/diego-bettega-cv/static/media/td_advanced.b0afbfc0.png"
+  },
+  {
+    "revision": "b0afbfc09ed61cd929862ddb808458ea",
+    "url": "/diego-bettega-cv/static/media/td_beginner.b0afbfc0.png"
+  },
+  {
+    "revision": "b0afbfc09ed61cd929862ddb808458ea",
+    "url": "/diego-bettega-cv/static/media/td_intermediate.b0afbfc0.png"
   },
   {
     "revision": "ddce1b4e58c5f716ce2848720b2cbcee",
