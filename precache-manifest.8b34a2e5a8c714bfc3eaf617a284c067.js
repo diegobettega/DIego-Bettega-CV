@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8467658039be95e6b017e1a96120fd22",
+    "revision": "a2c4761633e44bb2b04a6ea8b7be192c",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "3c297af9079aadd0a285",
+    "revision": "fbb8137fb06c9ec70bf9",
     "url": "/diego-bettega-cv/static/css/main.417846ba.chunk.css"
   },
   {
-    "revision": "40e626e9159bc2bcb5e3",
-    "url": "/diego-bettega-cv/static/js/2.050f55ad.chunk.js"
+    "revision": "03f54dc306062c3c8e45",
+    "url": "/diego-bettega-cv/static/js/2.1b9dd953.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.050f55ad.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.1b9dd953.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c297af9079aadd0a285",
-    "url": "/diego-bettega-cv/static/js/main.19659507.chunk.js"
+    "revision": "fbb8137fb06c9ec70bf9",
+    "url": "/diego-bettega-cv/static/js/main.cac21858.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -144,6 +144,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/flask.74a07b6a.png"
   },
   {
+    "revision": "ce67a6e5b9e81179fb5ea9abf110fc46",
+    "url": "/diego-bettega-cv/static/media/ga_advanced.ce67a6e5.png"
+  },
+  {
+    "revision": "a3142340ce4c69ff938beab591346cba",
+    "url": "/diego-bettega-cv/static/media/ga_beginner.a3142340.png"
+  },
+  {
     "revision": "14dca846769ac22f7d4c71e7b34fb7ee",
     "url": "/diego-bettega-cv/static/media/gcp.14dca846.png"
   },
@@ -154,6 +162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8c9ffa68b6d9d1a85bf66a1cd5838f20",
     "url": "/diego-bettega-cv/static/media/gitlab.8c9ffa68.png"
+  },
+  {
+    "revision": "e88e5b7c17809a005a2f447b09e6e911",
+    "url": "/diego-bettega-cv/static/media/google_tag_manager.e88e5b7c.png"
   },
   {
     "revision": "9a4cd7c27cd493ac7cd505ea67cd45fd",
