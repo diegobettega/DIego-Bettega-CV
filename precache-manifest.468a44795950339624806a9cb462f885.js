@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "261f97431fb7c2c104e59ed7ac0f1295",
+    "revision": "f798c7e667f274719a5d2a783e9dcf33",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "520e3507207462d9ac31",
-    "url": "/diego-bettega-cv/static/css/main.70d9891f.chunk.css"
+    "revision": "616f90def5f93f30a9f6",
+    "url": "/diego-bettega-cv/static/css/main.552e595d.chunk.css"
   },
   {
-    "revision": "576dd2181d225e791d71",
-    "url": "/diego-bettega-cv/static/js/2.be395671.chunk.js"
+    "revision": "a2e59de416ee0f4e6e19",
+    "url": "/diego-bettega-cv/static/js/2.72588585.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/diego-bettega-cv/static/js/2.be395671.chunk.js.LICENSE.txt"
+    "url": "/diego-bettega-cv/static/js/2.72588585.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "520e3507207462d9ac31",
-    "url": "/diego-bettega-cv/static/js/main.4b4ebd62.chunk.js"
+    "revision": "616f90def5f93f30a9f6",
+    "url": "/diego-bettega-cv/static/js/main.183f3d0e.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67311414fae1bca7a4425836bd997f18",
     "url": "/diego-bettega-cv/static/media/Diego Bettega - CV (UK).67311414.pdf"
+  },
+  {
+    "revision": "71235995250dc3bed0a49796af98da05",
+    "url": "/diego-bettega-cv/static/media/Presentation.71235995.pdf"
   },
   {
     "revision": "1b7f5a09b310da5bf36b64044f1a4a70",
@@ -66,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34e37cde2c50603e0a49ec082f411d2d",
     "url": "/diego-bettega-cv/static/media/alteryx_core.34e37cde.png"
+  },
+  {
+    "revision": "d3400aaff55235711473f5751057959d",
+    "url": "/diego-bettega-cv/static/media/amc.d3400aaf.png"
   },
   {
     "revision": "c7e3c55c66bac44f4a1904764cb9f353",
@@ -348,8 +356,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/sql.c3634807.png"
   },
   {
-    "revision": "846996ec2eb59a1d568346043e1aa190",
-    "url": "/diego-bettega-cv/static/media/stephen_dalton.846996ec.png"
+    "revision": "bd1e16e1eddc59342f5f299993e7c220",
+    "url": "/diego-bettega-cv/static/media/stephen_dalton.bd1e16e1.png"
   },
   {
     "revision": "37a914e3a013998a58bf07b7f7801469",
