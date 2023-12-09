@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/diego-bettega-cv/static/css/main.6ad2e9a4.chunk.css",
-    "main.js": "/diego-bettega-cv/static/js/main.5422840a.chunk.js",
-    "main.js.map": "/diego-bettega-cv/static/js/main.5422840a.chunk.js.map",
+    "main.js": "/diego-bettega-cv/static/js/main.14b87820.chunk.js",
+    "main.js.map": "/diego-bettega-cv/static/js/main.14b87820.chunk.js.map",
     "runtime-main.js": "/diego-bettega-cv/static/js/runtime-main.909a9656.js",
     "runtime-main.js.map": "/diego-bettega-cv/static/js/runtime-main.909a9656.js.map",
-    "static/js/2.72588585.chunk.js": "/diego-bettega-cv/static/js/2.72588585.chunk.js",
-    "static/js/2.72588585.chunk.js.map": "/diego-bettega-cv/static/js/2.72588585.chunk.js.map",
+    "static/js/2.2e4f4345.chunk.js": "/diego-bettega-cv/static/js/2.2e4f4345.chunk.js",
+    "static/js/2.2e4f4345.chunk.js.map": "/diego-bettega-cv/static/js/2.2e4f4345.chunk.js.map",
     "index.html": "/diego-bettega-cv/index.html",
-    "precache-manifest.064fd251758d3da64d60bfca9ef2bc80.js": "/diego-bettega-cv/precache-manifest.064fd251758d3da64d60bfca9ef2bc80.js",
+    "precache-manifest.c65e7e75c2b37ed7fabcaeb4715a1da8.js": "/diego-bettega-cv/precache-manifest.c65e7e75c2b37ed7fabcaeb4715a1da8.js",
     "service-worker.js": "/diego-bettega-cv/service-worker.js",
     "static/css/main.6ad2e9a4.chunk.css.map": "/diego-bettega-cv/static/css/main.6ad2e9a4.chunk.css.map",
-    "static/js/2.72588585.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.72588585.chunk.js.LICENSE.txt",
+    "static/js/2.2e4f4345.chunk.js.LICENSE.txt": "/diego-bettega-cv/static/js/2.2e4f4345.chunk.js.LICENSE.txt",
     "static/media/CV.png": "/diego-bettega-cv/static/media/CV.5e363190.png",
     "static/media/CV_Hover.png": "/diego-bettega-cv/static/media/CV_Hover.7cadfa10.png",
     "static/media/Diego Bettega - CV (IT).pdf": "/diego-bettega-cv/static/media/Diego Bettega - CV (IT).875b0be5.pdf",
@@ -32,13 +32,16 @@
     "static/media/basketball.png": "/diego-bettega-cv/static/media/basketball.c948495b.png",
     "static/media/bigdata.png": "/diego-bettega-cv/static/media/bigdata.bda1c782.png",
     "static/media/bootstrap.png": "/diego-bettega-cv/static/media/bootstrap.fb2c3651.png",
+    "static/media/british_international_school.png": "/diego-bettega-cv/static/media/british_international_school.37dbb1cf.png",
     "static/media/capstone.png": "/diego-bettega-cv/static/media/capstone.545b8610.png",
     "static/media/cassandra.png": "/diego-bettega-cv/static/media/cassandra.ea71a651.png",
+    "static/media/certificate_of_degree.pdf": "/diego-bettega-cv/static/media/certificate_of_degree.46210090.pdf",
     "static/media/colab.png": "/diego-bettega-cv/static/media/colab.7191d4cd.png",
     "static/media/customer_retention.png": "/diego-bettega-cv/static/media/customer_retention.104416ec.png",
     "static/media/cycling.png": "/diego-bettega-cv/static/media/cycling.ed1ad973.png",
     "static/media/dask.png": "/diego-bettega-cv/static/media/dask.4b26317c.png",
     "static/media/devops.png": "/diego-bettega-cv/static/media/devops.1432b755.png",
+    "static/media/dissertation.pdf": "/diego-bettega-cv/static/media/dissertation.2878ff2a.pdf",
     "static/media/docker.png": "/diego-bettega-cv/static/media/docker.8f63a1de.png",
     "static/media/excel.png": "/diego-bettega-cv/static/media/excel.a0f68920.png",
     "static/media/face_detection.png": "/diego-bettega-cv/static/media/face_detection.010e37c2.png",
@@ -117,8 +120,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.909a9656.js",
-    "static/js/2.72588585.chunk.js",
+    "static/js/2.2e4f4345.chunk.js",
     "static/css/main.6ad2e9a4.chunk.css",
-    "static/js/main.5422840a.chunk.js"
+    "static/js/main.14b87820.chunk.js"
   ]
 }
