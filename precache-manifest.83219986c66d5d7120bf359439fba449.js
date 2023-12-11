@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e419192d8f190ead386c2a6830b15aa",
+    "revision": "813059f8c59980ad1df916eeafef6c66",
     "url": "/diego-bettega-cv/index.html"
   },
   {
-    "revision": "3f8ea0b25ed268bef9ab",
+    "revision": "9cb4b7f0bcb6ccb77400",
     "url": "/diego-bettega-cv/static/css/main.6ad2e9a4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/js/2.2e4f4345.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f8ea0b25ed268bef9ab",
-    "url": "/diego-bettega-cv/static/js/main.ab1537ca.chunk.js"
+    "revision": "9cb4b7f0bcb6ccb77400",
+    "url": "/diego-bettega-cv/static/js/main.7c465d53.chunk.js"
   },
   {
     "revision": "4a2c42ef421c7a8c3dee",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diego-bettega-cv/static/media/bootstrap.fb2c3651.png"
   },
   {
-    "revision": "37dbb1cfd122ae62bd74422e588ccc3c",
-    "url": "/diego-bettega-cv/static/media/british_international_school.37dbb1cf.png"
+    "revision": "682aebd50cfa9d8c59b1c7a4cfb97b3c",
+    "url": "/diego-bettega-cv/static/media/british_international_school.682aebd5.png"
   },
   {
     "revision": "545b86108ea5170bbaaa7c9acc63ceb5",
